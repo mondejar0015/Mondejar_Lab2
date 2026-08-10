@@ -1,0 +1,1 @@
+TypeScript helped me catch mistakes by checking the types of props, state, and event handlers before running the application. It made it easier to identify missing or incorrect values and helped ensure that the components were used correctly. Overall, TypeScript made the code more reliable and easier to maintain.
